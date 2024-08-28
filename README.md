@@ -4,10 +4,10 @@
 Welcome to **Eat-n-Split**! This is a vibrant, interactive web application built with React.js to help you split your meals and bills with friends seamlessly! 🎉
 
 ![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_12-56-19_htza.jpg)
-![App Screenshot]([https://s8.uupload.ir/files/photo_2024-08-28_12-56-19_htza.jpg](https://raw.githubusercontent.com/ariyagoudarzi/eat-n-split/main/ScreenShots/photo_2024-08-28_13-39-38.jpg))
-![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_12-56-19_htza.jpg)
-![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_12-56-19_htza.jpg)
-![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_12-56-19_htza.jpg)
+![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_13-39-38_3zgi.jpg)
+![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_13-39-42_w68b.jpg)
+![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_13-39-45_ex8g.jpg)
+![App Screenshot](https://s8.uupload.ir/files/photo_2024-08-28_13-39-48_xma0.jpg)
 
 ## 🌟 Features
 
