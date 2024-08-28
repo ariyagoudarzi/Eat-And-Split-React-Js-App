@@ -30,18 +30,18 @@ Make sure you have the following installed:
 ### Installation
 
 1. **Clone the repository**
-
+   
    ```bash
-   git clone https://github.com/ariyagoudarzi/eat-n-split.git
+   git clone https://github.com/ariyagoudarzi/Eat-And-Split-React-Js-App.git
    ```
 
-2. **Navigate to the project directory**
+3. **Navigate to the project directory**
 
    ```bash
-   cd eat-n-split
+   cd Eat-And-Split-React-Js-App
    ```
 
-3. **Install dependencies**
+4. **Install dependencies**
 
    ```bash
    npm install
